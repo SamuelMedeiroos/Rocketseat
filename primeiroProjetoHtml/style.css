@@ -54,3 +54,9 @@ span, a {
     border: 1px #FF9900 solid;
 }
 
+#balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
