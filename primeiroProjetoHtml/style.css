@@ -1,0 +1,56 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    text-align: center;
+    margin: 0;
+}
+
+#hero {
+    width: 592px;
+    margin: 0 auto 72px;
+}
+
+#hero img {
+    margin-bottom: 72px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    font-size: 49px;
+    margin-bottom: 32px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+p, #footer {
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+span, a {
+    color: #FF9900;
+}
+
+#footer a + a{
+    margin-left: 14px;
+    
+}
+
+#footer #line {
+    margin: 0 auto 8px;
+    width: 568px;
+    height: 0px;
+    border: 1px #FF9900 solid;
+}
+
