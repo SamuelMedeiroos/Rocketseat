@@ -1,0 +1,63 @@
+/* Estilos para o corpo do documento */
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-variation-settings: "wdth" 100;
+    line-height: 22px;
+    text-align: center;
+    margin: 0;
+    color: #828282;
+    font-size: 15px;
+}
+
+/* Estilos para a seção hero */
+#hero {
+    width: 626px;
+    height: 486px;
+    margin: 0 auto 64px;
+}
+
+#hero strong {
+    color: #3F3D56;
+}
+
+/* Estilos para o parágrafo com a tag span */
+p span {
+    color: #828282;
+    font-weight: 700;
+}
+
+/* Estilos para o parágrafo com ID específico */
+#paragrafo-diferente {
+    margin: 0 auto 32px;
+}
+
+/* Estilos para o título */
+h1 {
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 32px;
+    color: #3F3D56;
+}
+
+h1 span {
+    font-weight: 700;
+    color: #EE24FF;
+}
+
+/* Estilos para o footer */
+footer {
+    text-align: center;
+    margin: 64px auto 0;
+    font-weight: 700;
+}
+
+/* Estilos para a imagem no footer */
+#img-footer {
+    display: block;
+    margin: 40px auto;
+    max-width: 100%;
+}
